@@ -12,4 +12,16 @@ Things you'll need:
 
 > This block quote is here for your information
 
-> this is another block quote
+> this is another block quote.
+
+
+* create this bullet using an asterisk
+
+*this is some text italizcised*
+
+
+top of horiz
+
+---
+
+bottom of horiz
